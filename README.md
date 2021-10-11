@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yash-Tank
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning many technologies in web development.
-- 💞️ I’m looking for opportunities in this.
+- 💞️ I’m looking for opportunities in same.
 - 📫 you can reach me at tashtank11@gmail.com
 
 <!---
