@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yash-Tank
-- 👀 I’m interested in software development.
+- 👀 I’m interested in Machine Learning and AI Enigneering.
 - 🌱 I’m currently working as software engineer.
 - 💞️ I’m looking for better opportunities in same.
 - 📫 you can reach me at yashtank.developer@gmail.com.
